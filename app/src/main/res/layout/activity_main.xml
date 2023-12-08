@@ -32,4 +32,10 @@
         tools:layout_editor_absoluteX="165dp"
         tools:layout_editor_absoluteY="447dp" />
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="409dp"
+        android:layout_height="335dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="134dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
